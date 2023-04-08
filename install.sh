@@ -26,9 +26,9 @@ echo "Loading..." | lolcat
 sleep 1
 clear
 
-toilet -f future "Adarsh Agarwal" | lolcat
+toilet -f future "Adamant Studios" | lolcat
 echo "-------------------------------------------------------" | lolcat
-echo   "Created  : Adamant Studios $white" |lolcat
+echo   "Created  : Adarsh Agarwal $white" |lolcat
 echo   "Contact  : Instagram.com/adarsh_agarwalll $white" |lolcat
 echo "-------------------------------------------------------" | lolcat
 
