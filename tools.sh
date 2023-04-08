@@ -5,6 +5,7 @@ clear
 
 
 echo ""
+echo -e "Lets do This"
 echo ""
 
 echo -e "\e[101m Press Enter \e[0m"
