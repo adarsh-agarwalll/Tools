@@ -1,28 +1,20 @@
 
 # HACKING TOOLS                   
-
-[![Build Status](https://img.shields.io/github/forks/rixon-cochi/hacking-tool.svg)](https://github.com/rixon-cochi/hacking-tool)
-[![Build Status](https://img.shields.io/github/stars/rixon-cochi/hacking-tool.svg)](https://github.com/rixon-cochi/hacking-tool)
-[![License](https://img.shields.io/github/license/rixon-cochi/b.svg)](https://github.com/rixon-cochi/b)
-
 -----------------------------------------------------------------------------------------------------------------------------------
 <br>
-<p align="center">
-<img width="35%" src="https://i.pinimg.com/originals/93/92/55/939255731017e8a035c18bfb82c1c52b.png"/>
-</p>
 
 <p align="center">
       TERMUX HACKING TOOLS INSTALLATION SETUP 🗂️
 </p> 
 <p align="center">
-     CODE BY TECH COCHI  
+     CODE BY Adamant Studios  
 </p>
 
 ------------------------------------------------------------------------------------------------------
 
 ### Introduction
 
-* hacking tool recorded by tech cochi
+* hacking tool recorded by Adarsh Agarwal
 15 hacking tools included in this code
 
 -------------------------------------------------------------------------------------
@@ -49,7 +41,7 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/rixon-cochi/hacking-tool.git`
+* `git clone https://github.com/adarsh-agarwalll/Tools.git`
 
 * `cd hacking-tool`
 
@@ -64,6 +56,3 @@ Open the terminal and type following commands.
 ## preview
 ![](https://i.pinimg.com/originals/db/4f/04/db4f045299041f244c2b5a33580ff8b8.gif)
 
-# SUPPORT 
-[![Donate](https://img.shields.io/badge/paypal-TECH--COCHI-gold?style=for-the-badge&logo=PayPal)](https://www.paypal.me/techcochi)
-[![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/HYDRAGAMING4U)
