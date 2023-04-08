@@ -43,7 +43,7 @@ Open the terminal and type following commands.
 
 * `git clone https://github.com/adarsh-agarwalll/Tools.git`
 
-* `cd hacking-tool`
+* `cd Tools`
 
 * `bash install.sh`
 
